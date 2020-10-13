@@ -2,14 +2,14 @@
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can view the last 20 posts submitted to "Instagram".
-- [ ] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
 - [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
@@ -61,6 +61,8 @@ Describe any challenges encountered while building the app.
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
+    
+**Part 1 of Instagram App ReadME File**
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **6** hours spent in total
